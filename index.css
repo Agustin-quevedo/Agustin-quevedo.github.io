@@ -1,6 +1,7 @@
 
 body{
-  background-color: #ffffff;}
+  background-color: #ffffff;
+  font-family: Inter;}
 
   .btn{
     font-size: 25px;
@@ -36,7 +37,6 @@ body{
 
 .tipo2{
   color: #B12D2D;
-  font-family: //metele lo que sea que sea esa fuente acá;
 }
 .bg-telemaster{
   background-color: #B12D2D;
